@@ -1,0 +1,4 @@
+requests==2.31.0
+requests-file==1.5.1
+numpy==1.26.3
+alpha-vantage==2.3.1
